@@ -1,0 +1,1 @@
+a:4:{s:5:"value";s:119:"http://localhost/key-spot-real-estate/wp-content/uploads/2023/05/201-e5ef46ff-fdc3-4dbb-aeef-ae2e00d2c748-1024x1024.jpg";s:10:"write_time";i:1683709524;s:10:"expired_in";i:2592000;s:12:"expired_time";i:1686301524;}
